@@ -1,0 +1,9 @@
+ipykernel==6.21.2
+pandas==1.5.2
+numpy==1.23
+scikit-learn==1.0.2
+xgboost==1.7.3
+scipy==1.8.1
+seaborn==0.13.2
+openpyxl==3.1.5
+rdkit==2023.9.1
